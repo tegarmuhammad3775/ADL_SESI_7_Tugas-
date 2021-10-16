@@ -1,4 +1,4 @@
-package com.adl.main;
+package com.adl.uidesktopapp;
 
 import java.awt.EventQueue;
 
